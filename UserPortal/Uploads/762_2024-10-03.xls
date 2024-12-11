@@ -1,0 +1,15 @@
+<div>
+	<table class="table table-bordered bg-white rounded_corners" cellspacing="0" cellpadding="0" rules="all" border="1" id="GridView1" style="width:100%;border-collapse:collapse;">
+		<tr>
+			<th scope="col">S.No.</th><th scope="col">Class Code</th><th class="hidden" scope="col">Courseid</th><th scope="col">Program</th><th scope="col">Sem/Year</th><th scope="col">Total student</th>
+		</tr><tr>
+			<td align="center">
+                       1
+                 </td><td align="center">A</td><td class="hidden" style="width:0px;">1</td><td align="center">1</td><td align="center">10 Sem</td><td align="center">0</td>
+		</tr><tr>
+			<td align="center">
+                       2
+                 </td><td align="center">A</td><td class="hidden" style="width:0px;">2</td><td align="center">5</td><td align="center">6 Sem</td><td align="center">0</td>
+		</tr>
+	</table>
+</div>
